@@ -1,6 +1,3 @@
-# Seasons-React
-
-# Widgets
 
 # Simple React JS Season Project
 
@@ -8,7 +5,7 @@
 
 This Project is a Simple ReactJS Project which demonstrates the following
 
-1. Based on Geo location - It disaply season [Navigator geolocation] (https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation)
+1. Based on Geo location - It display season [Navigator geolocation] (https://developer.mozilla.org/en-US/docs/Web/API/Navigator/geolocation)
 
 The project Template can be used to build bigger projects
 
